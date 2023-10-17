@@ -1,0 +1,24 @@
+.html {
+  box-sizing: border-box;
+}
+
+.column {
+  width: 300px;
+  float: left;
+}
+
+.sidebar {
+  width: 50%;
+  padding: 10px;
+  border: solid green;
+  border-width: 10px;
+  background-color: blue;
+  margin: 12px
+}
+
+img {
+  float: right;
+  padding: 20px;
+  border: dotted blue
+}
+
